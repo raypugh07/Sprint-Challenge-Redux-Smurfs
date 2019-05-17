@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top:30px;
 }
 
 .App-logo {
@@ -25,4 +26,11 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.Smurf{
+  border:1px solid black;
+  width:400px;
+  margin:auto;
+  margin-top:10px;
 }
